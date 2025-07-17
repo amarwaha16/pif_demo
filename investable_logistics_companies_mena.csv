@@ -1,0 +1,101 @@
+Company Name,Country,Sector,Subsector,Revenue (USD),Growth Rate,Investors,Notes,EBITDA Margin (%),Net Profit Margin (%),ROE (%),ROA (%),Debt-to-Equity,Current Ratio,Quick Ratio,Cash Conversion Cycle (days),Inventory Turnover,Asset Turnover
+MENA Logistics Co 1,Oman,Logistics,Freight,49902237.77,40%,Sequoia,Recently raised Series B,25.59,3.49,17.65,2.04,1.93,0.87,0.67,77.0,9.46,2.37
+MENA Logistics Co 2,Morocco,Logistics,Last-Mile Delivery,4040177.56,34%,Sequoia,Recently raised Series B,20.25,13.47,9.16,3.35,1.09,1.5,1.96,115.0,10.96,0.87
+MENA Logistics Co 3,Egypt,Logistics,Warehouse Automation,3461481.98,30%,SoftBank,New warehouse in GCC free zone,19.18,19.78,5.97,4.59,0.96,1.88,1.41,37.0,5.55,1.41
+MENA Logistics Co 4,Egypt,Logistics,Freight,7555131.19,36%,Global Founders,New warehouse in GCC free zone,24.62,1.57,10.55,13.63,1.2,1.43,1.05,100.0,7.03,0.86
+MENA Logistics Co 5,Oman,Logistics,Cold Chain,12913441.96,24%,STV,High customer satisfaction,5.18,11.14,24.81,2.04,1.7,1.12,0.85,71.0,10.63,1.75
+MENA Logistics Co 6,Jordan,Logistics,Warehouse Automation,19805064.18,10%,ADQ,New warehouse in GCC free zone,18.37,13.42,9.66,8.18,1.5,1.42,1.66,113.0,5.61,1.51
+MENA Logistics Co 7,KSA,Logistics,Freight,46501623.62,17%,Sequoia,Scaling rapidly in e-commerce delivery,10.1,2.39,7.74,2.95,1.97,2.08,1.71,116.0,4.12,1.99
+MENA Logistics Co 8,Jordan,Logistics,Freight,25264688.51,10%,BECO Capital,Tech-enabled fleet management,25.75,8.65,9.95,12.22,0.45,2.24,1.52,32.0,6.23,0.98
+MENA Logistics Co 9,Oman,Logistics,Cold Chain,13041254.02,39%,STV,Tech-enabled fleet management,16.12,13.92,24.52,4.54,1.15,0.91,1.63,78.0,4.43,0.71
+MENA Logistics Co 10,Morocco,Logistics,Last-Mile Delivery,38742723.86,36%,None,New warehouse in GCC free zone,13.59,13.12,3.8,14.71,0.61,1.09,0.74,105.0,9.2,1.89
+MENA Logistics Co 11,Morocco,Logistics,Crowdsourced Delivery,9813267.34,20%,ADQ,Scaling rapidly in e-commerce delivery,18.75,2.61,7.86,9.74,1.49,1.02,1.1,68.0,5.26,1.93
+MENA Logistics Co 12,KSA,Logistics,Last-Mile Delivery,38799104.15,17%,ADQ,Recently raised Series B,15.7,15.42,12.04,7.92,1.59,1.77,1.42,97.0,5.23,2.45
+MENA Logistics Co 13,UAE,Logistics,Freight,9632619.45,38%,Wamda,Scaling rapidly in e-commerce delivery,24.4,6.56,12.71,7.25,0.91,0.98,1.44,96.0,11.64,1.84
+MENA Logistics Co 14,UAE,Logistics,Express,24629598.93,26%,None,Recently raised Series B,5.88,13.93,11.05,2.05,1.76,1.99,1.4,86.0,3.91,0.9
+MENA Logistics Co 15,Egypt,Logistics,Express,36005903.91,36%,STV,Scaling rapidly in e-commerce delivery,18.79,10.33,11.02,13.99,0.85,1.85,1.87,92.0,10.77,1.8
+MENA Logistics Co 16,Morocco,Logistics,Last-Mile Delivery,5045596.02,33%,STV,Scaling rapidly in e-commerce delivery,7.73,6.98,21.94,2.05,0.9,1.46,0.63,65.0,3.15,2.09
+MENA Logistics Co 17,Oman,Logistics,Express,21545831.92,40%,ADQ,Scaling rapidly in e-commerce delivery,25.11,7.85,20.12,11.82,1.14,1.04,0.61,59.0,4.12,1.23
+MENA Logistics Co 18,Jordan,Logistics,Cold Chain,44827129.28,24%,Sequoia,Recently raised Series B,27.23,12.49,8.38,10.13,0.38,1.4,0.71,81.0,10.48,0.56
+MENA Logistics Co 19,Qatar,Logistics,Last-Mile Delivery,27272667.23,24%,None,Tech-enabled fleet management,7.8,11.58,21.1,4.06,1.86,1.32,1.42,103.0,11.35,0.59
+MENA Logistics Co 20,Jordan,Logistics,Last-Mile Delivery,47230283.68,18%,None,High customer satisfaction,10.06,17.75,22.51,4.99,0.27,1.47,1.95,46.0,3.79,0.92
+MENA Logistics Co 21,Qatar,Logistics,Crowdsourced Delivery,4553454.47,29%,BECO Capital,Scaling rapidly in e-commerce delivery,8.72,6.31,20.11,11.63,0.47,0.98,1.75,39.0,6.95,0.72
+MENA Logistics Co 22,Egypt,Logistics,Last-Mile Delivery,15807053.72,14%,None,Recently raised Series B,28.78,15.32,17.8,9.21,1.24,1.35,1.19,48.0,4.65,1.1
+MENA Logistics Co 23,Oman,Logistics,Crowdsourced Delivery,25328520.35,14%,Sequoia,Tech-enabled fleet management,21.73,1.3,22.28,9.33,1.31,1.2,0.87,94.0,4.99,2.12
+MENA Logistics Co 24,Morocco,Logistics,Freight,15214902.62,29%,ADQ,New warehouse in GCC free zone,5.18,19.31,22.98,8.04,1.16,1.05,1.78,110.0,3.27,1.49
+MENA Logistics Co 25,Morocco,Logistics,Warehouse Automation,21428454.18,10%,Raed Ventures,Tech-enabled fleet management,29.39,19.62,6.1,11.4,1.67,1.46,0.66,73.0,10.55,2.46
+MENA Logistics Co 26,Qatar,Logistics,Express,24334026.33,33%,Global Founders,Established regional presence,12.55,2.44,12.35,12.74,0.56,2.05,1.71,101.0,9.97,2.44
+MENA Logistics Co 27,Qatar,Logistics,Crowdsourced Delivery,14863619.79,37%,STV,New warehouse in GCC free zone,5.78,5.1,10.47,12.13,0.24,1.3,1.18,118.0,7.71,1.37
+MENA Logistics Co 28,KSA,Logistics,Warehouse Automation,36802397.05,21%,Sequoia,Recently raised Series B,19.8,15.71,12.66,9.06,0.54,2.41,0.85,83.0,7.31,2.11
+MENA Logistics Co 29,Morocco,Logistics,Warehouse Automation,37855014.6,32%,ADQ,Scaling rapidly in e-commerce delivery,15.7,9.67,22.8,2.58,0.29,2.08,0.79,55.0,8.93,0.89
+MENA Logistics Co 30,Egypt,Logistics,Warehouse Automation,33472132.31,15%,Sequoia,High customer satisfaction,27.07,1.75,23.21,14.13,1.35,1.17,0.62,34.0,10.36,1.08
+MENA Logistics Co 31,KSA,Logistics,Crowdsourced Delivery,13913814.43,11%,STV,Tech-enabled fleet management,14.33,15.68,12.47,7.08,1.92,1.52,0.91,54.0,9.11,1.02
+MENA Logistics Co 32,Jordan,Logistics,Freight,36315605.08,22%,Raed Ventures,Recently raised Series B,29.42,6.78,6.04,9.03,0.38,2.45,0.61,68.0,3.32,0.98
+MENA Logistics Co 33,Qatar,Logistics,Freight,11302267.2,12%,SoftBank,Established regional presence,26.01,6.25,14.0,11.05,1.67,2.48,0.54,42.0,3.32,2.07
+MENA Logistics Co 34,KSA,Logistics,Last-Mile Delivery,43052602.01,34%,None,High customer satisfaction,6.86,6.1,24.58,14.35,1.57,1.18,1.52,44.0,8.4,2.37
+MENA Logistics Co 35,UAE,Logistics,Freight,21735694.48,36%,Global Founders,Tech-enabled fleet management,21.04,3.84,22.49,13.57,0.51,2.07,0.75,120.0,5.09,0.58
+MENA Logistics Co 36,Bahrain,Logistics,Last-Mile Delivery,31194159.07,28%,Wamda,Scaling rapidly in e-commerce delivery,23.89,19.53,9.38,8.03,0.94,1.28,1.86,82.0,5.53,1.24
+MENA Logistics Co 37,KSA,Logistics,Last-Mile Delivery,32292887.16,20%,STV,Tech-enabled fleet management,26.16,2.0,19.43,14.34,0.8,1.66,1.09,48.0,10.67,1.91
+MENA Logistics Co 38,UAE,Logistics,Warehouse Automation,29332621.88,12%,Wamda,High customer satisfaction,6.4,15.57,13.65,7.83,0.32,2.13,1.38,68.0,10.67,2.24
+MENA Logistics Co 39,Jordan,Logistics,Express,4339788.19,28%,STV,Tech-enabled fleet management,16.42,17.16,15.75,7.95,0.96,1.56,0.63,33.0,10.13,0.83
+MENA Logistics Co 40,KSA,Logistics,Express,42459041.04,11%,Global Founders,Established regional presence,17.61,7.59,3.59,4.66,0.21,1.45,0.69,39.0,6.3,2.24
+MENA Logistics Co 41,Jordan,Logistics,Cold Chain,47591547.15,35%,STV,New warehouse in GCC free zone,12.2,18.41,3.18,12.75,0.76,2.25,0.76,32.0,6.72,1.9
+MENA Logistics Co 42,Bahrain,Logistics,Last-Mile Delivery,8598658.25,17%,Wamda,New warehouse in GCC free zone,24.86,9.88,10.26,11.24,0.28,2.14,1.84,64.0,3.5,0.99
+MENA Logistics Co 43,UAE,Logistics,Freight,35892301.1,29%,None,Scaling rapidly in e-commerce delivery,7.34,2.54,20.73,3.24,0.63,1.71,1.43,39.0,4.25,0.79
+MENA Logistics Co 44,Bahrain,Logistics,Last-Mile Delivery,36838984.22,11%,BECO Capital,New warehouse in GCC free zone,15.65,14.36,10.33,2.97,1.55,1.71,1.33,107.0,8.1,1.85
+MENA Logistics Co 45,UAE,Logistics,Cold Chain,12595034.84,37%,Wamda,Scaling rapidly in e-commerce delivery,27.07,17.92,7.57,7.58,0.49,1.22,1.58,75.0,6.37,2.33
+MENA Logistics Co 46,KSA,Logistics,Cold Chain,8631246.4,19%,ADQ,New warehouse in GCC free zone,14.7,15.27,3.38,2.89,1.02,1.77,1.99,88.0,3.55,1.76
+MENA Logistics Co 47,UAE,Logistics,Last-Mile Delivery,43678626.84,12%,None,Recently raised Series B,14.26,17.05,13.19,12.05,0.26,0.91,1.57,103.0,7.52,1.2
+MENA Logistics Co 48,Oman,Logistics,Freight,49994213.78,35%,Raed Ventures,Scaling rapidly in e-commerce delivery,21.04,15.63,17.08,11.54,1.37,1.54,1.92,66.0,3.08,2.22
+MENA Logistics Co 49,UAE,Logistics,Express,5651585.22,20%,Global Founders,High customer satisfaction,12.09,19.8,22.26,3.8,1.22,2.42,0.58,72.0,10.17,1.6
+MENA Logistics Co 50,Bahrain,Logistics,Freight,11958964.62,28%,ADQ,Scaling rapidly in e-commerce delivery,18.59,19.26,5.42,10.26,1.13,1.41,1.95,59.0,4.29,1.38
+MENA Logistics Co 51,Qatar,Logistics,Cold Chain,41160670.23,11%,STV,Established regional presence,8.25,19.61,12.75,14.64,1.64,1.26,1.55,48.0,6.84,2.44
+MENA Logistics Co 52,Morocco,Logistics,Last-Mile Delivery,6214245.54,15%,Global Founders,Tech-enabled fleet management,24.23,12.3,5.22,8.74,1.74,0.84,0.95,113.0,5.64,1.49
+MENA Logistics Co 53,Qatar,Logistics,Cold Chain,10003600.2,21%,None,Established regional presence,20.52,8.82,20.37,13.99,1.84,2.26,0.66,45.0,7.37,1.35
+MENA Logistics Co 54,Egypt,Logistics,Crowdsourced Delivery,3513642.39,39%,Sequoia,Established regional presence,24.22,11.56,23.14,4.28,0.94,1.46,0.65,102.0,6.63,1.53
+MENA Logistics Co 55,Morocco,Logistics,Warehouse Automation,24054724.47,25%,ADQ,Established regional presence,26.34,6.05,16.73,8.61,1.39,2.5,1.6,42.0,5.79,0.99
+MENA Logistics Co 56,UAE,Logistics,Last-Mile Delivery,30503760.54,15%,BECO Capital,New warehouse in GCC free zone,28.61,9.3,13.63,9.32,0.6,1.88,0.63,78.0,7.65,1.05
+MENA Logistics Co 57,Qatar,Logistics,Freight,27128712.23,18%,ADQ,New warehouse in GCC free zone,16.93,14.72,3.05,11.36,0.58,1.28,1.71,75.0,4.23,0.72
+MENA Logistics Co 58,Egypt,Logistics,Cold Chain,42648608.07,31%,ADQ,High customer satisfaction,23.11,13.17,7.83,12.05,1.26,1.85,1.76,54.0,9.64,0.66
+MENA Logistics Co 59,Oman,Logistics,Crowdsourced Delivery,31006979.7,11%,Wamda,Established regional presence,16.89,13.58,8.69,7.13,1.77,2.22,1.21,56.0,4.25,0.91
+MENA Logistics Co 60,Jordan,Logistics,Crowdsourced Delivery,12027174.59,17%,SoftBank,Established regional presence,23.05,9.72,6.99,10.39,1.61,1.51,1.2,43.0,7.86,1.12
+MENA Logistics Co 61,Morocco,Logistics,Last-Mile Delivery,11578154.74,21%,Raed Ventures,Tech-enabled fleet management,9.59,1.52,19.68,3.86,0.84,1.91,1.76,86.0,10.7,1.19
+MENA Logistics Co 62,Morocco,Logistics,Last-Mile Delivery,20781808.67,14%,Global Founders,Tech-enabled fleet management,7.85,8.08,24.94,3.28,0.63,1.82,0.69,99.0,8.63,1.19
+MENA Logistics Co 63,Bahrain,Logistics,Cold Chain,8004339.42,23%,STV,Recently raised Series B,9.94,3.83,5.66,12.09,0.22,2.28,1.34,87.0,10.28,1.16
+MENA Logistics Co 64,Bahrain,Logistics,Crowdsourced Delivery,12930874.65,40%,Raed Ventures,Scaling rapidly in e-commerce delivery,21.76,10.73,15.81,9.63,1.61,2.45,1.93,94.0,11.13,2.2
+MENA Logistics Co 65,KSA,Logistics,Express,32005783.63,36%,BECO Capital,Established regional presence,11.86,19.92,22.6,14.62,0.23,0.88,0.57,102.0,10.35,1.06
+MENA Logistics Co 66,Morocco,Logistics,Cold Chain,47079524.65,29%,Wamda,Established regional presence,13.96,6.79,9.15,14.7,0.32,1.46,1.58,73.0,3.39,0.96
+MENA Logistics Co 67,KSA,Logistics,Express,9992288.62,34%,Raed Ventures,New warehouse in GCC free zone,23.65,12.43,16.0,9.79,0.64,2.1,1.97,90.0,5.91,1.64
+MENA Logistics Co 68,Qatar,Logistics,Cold Chain,10559080.55,36%,Wamda,High customer satisfaction,28.56,16.86,12.23,11.54,0.58,1.73,1.28,91.0,7.21,0.52
+MENA Logistics Co 69,Bahrain,Logistics,Cold Chain,25350575.87,14%,Raed Ventures,Scaling rapidly in e-commerce delivery,21.62,12.01,18.2,9.94,1.43,2.28,1.03,42.0,8.7,2.15
+MENA Logistics Co 70,Qatar,Logistics,Express,37700245.7,25%,Global Founders,Established regional presence,8.15,1.51,13.63,6.94,0.97,1.0,1.17,48.0,7.22,1.24
+MENA Logistics Co 71,Qatar,Logistics,Cold Chain,8451498.8,39%,SoftBank,High customer satisfaction,27.74,8.92,3.5,8.38,0.85,1.7,0.8,48.0,6.74,2.04
+MENA Logistics Co 72,UAE,Logistics,Cold Chain,25707724.18,23%,SoftBank,Established regional presence,28.91,9.91,20.91,6.62,1.47,2.16,0.7,45.0,3.09,1.98
+MENA Logistics Co 73,Jordan,Logistics,Cold Chain,26480195.39,27%,Sequoia,Recently raised Series B,15.12,2.79,19.6,14.27,1.91,1.81,1.54,80.0,11.2,2.23
+MENA Logistics Co 74,Oman,Logistics,Cold Chain,28138619.07,15%,STV,Tech-enabled fleet management,7.72,11.11,22.04,8.72,0.9,1.87,1.54,58.0,10.65,1.12
+MENA Logistics Co 75,Morocco,Logistics,Express,26368194.13,22%,Raed Ventures,Recently raised Series B,6.36,14.74,6.74,13.32,1.44,1.96,1.05,103.0,10.7,2.36
+MENA Logistics Co 76,KSA,Logistics,Cold Chain,20772662.43,29%,ADQ,New warehouse in GCC free zone,15.89,18.33,22.31,8.83,0.35,2.19,1.88,48.0,3.07,2.37
+MENA Logistics Co 77,Jordan,Logistics,Cold Chain,15307290.72,36%,Raed Ventures,Scaling rapidly in e-commerce delivery,9.38,4.98,9.51,9.52,1.09,0.98,1.19,94.0,4.13,2.08
+MENA Logistics Co 78,KSA,Logistics,Freight,47808676.01,25%,None,Scaling rapidly in e-commerce delivery,25.92,15.22,12.68,5.41,0.35,1.65,1.75,52.0,3.91,1.66
+MENA Logistics Co 79,UAE,Logistics,Last-Mile Delivery,38718963.64,13%,Wamda,Scaling rapidly in e-commerce delivery,26.6,12.01,6.04,5.55,0.38,1.56,1.5,77.0,9.82,1.74
+MENA Logistics Co 80,Egypt,Logistics,Express,10999080.59,37%,Wamda,High customer satisfaction,11.46,4.99,3.99,12.93,1.28,2.45,1.85,89.0,5.16,1.41
+MENA Logistics Co 81,Egypt,Logistics,Last-Mile Delivery,10838191.3,38%,ADQ,New warehouse in GCC free zone,7.48,7.35,14.9,12.7,0.64,2.45,1.02,103.0,3.31,1.99
+MENA Logistics Co 82,Morocco,Logistics,Cold Chain,10297013.49,23%,Sequoia,Scaling rapidly in e-commerce delivery,12.23,19.27,3.44,12.32,1.07,0.97,0.61,116.0,5.92,1.78
+MENA Logistics Co 83,Oman,Logistics,Express,46148786.55,19%,BECO Capital,New warehouse in GCC free zone,29.19,6.03,24.99,9.03,1.01,2.18,0.89,93.0,6.0,2.27
+MENA Logistics Co 84,Oman,Logistics,Express,39913546.85,31%,ADQ,High customer satisfaction,16.86,11.75,23.63,4.08,0.6,1.79,0.93,32.0,8.99,0.5
+MENA Logistics Co 85,KSA,Logistics,Cold Chain,41631827.67,25%,STV,Scaling rapidly in e-commerce delivery,13.7,18.86,22.2,9.31,1.61,1.9,1.9,105.0,7.95,2.13
+MENA Logistics Co 86,Egypt,Logistics,Express,10660754.56,10%,BECO Capital,Scaling rapidly in e-commerce delivery,22.41,8.12,19.03,7.81,0.64,2.36,1.18,96.0,7.42,2.23
+MENA Logistics Co 87,Jordan,Logistics,Freight,36049629.37,29%,STV,Scaling rapidly in e-commerce delivery,8.37,1.81,17.36,3.33,1.45,1.36,0.57,35.0,4.02,2.0
+MENA Logistics Co 88,Bahrain,Logistics,Cold Chain,5399827.24,32%,Global Founders,Tech-enabled fleet management,13.15,6.21,16.33,12.13,1.02,1.64,0.52,52.0,3.99,0.8
+MENA Logistics Co 89,Bahrain,Logistics,Crowdsourced Delivery,18690718.0,22%,Raed Ventures,High customer satisfaction,13.92,17.65,17.11,7.42,0.82,1.91,1.36,75.0,5.98,2.25
+MENA Logistics Co 90,Egypt,Logistics,Freight,33681209.57,20%,BECO Capital,Established regional presence,16.5,19.77,19.56,4.86,1.89,2.33,0.89,53.0,7.78,1.78
+MENA Logistics Co 91,Jordan,Logistics,Express,41178241.41,28%,None,New warehouse in GCC free zone,20.07,4.89,7.77,2.73,1.1,1.24,0.87,90.0,7.22,0.88
+MENA Logistics Co 92,Bahrain,Logistics,Cold Chain,34598116.54,39%,STV,Recently raised Series B,17.99,2.92,17.79,11.56,0.27,0.95,1.9,76.0,6.73,2.21
+MENA Logistics Co 93,Morocco,Logistics,Freight,20142617.92,31%,None,Scaling rapidly in e-commerce delivery,25.46,5.66,3.44,2.88,1.67,1.09,1.07,34.0,4.28,1.09
+MENA Logistics Co 94,Oman,Logistics,Cold Chain,27364241.91,38%,Global Founders,New warehouse in GCC free zone,23.77,1.62,4.17,9.92,1.19,1.18,1.17,87.0,9.5,1.16
+MENA Logistics Co 95,Oman,Logistics,Warehouse Automation,32816946.78,37%,Sequoia,Recently raised Series B,21.14,17.54,19.43,6.7,1.32,1.5,0.73,60.0,11.95,1.56
+MENA Logistics Co 96,Bahrain,Logistics,Last-Mile Delivery,47311726.84,38%,Sequoia,High customer satisfaction,5.75,7.27,13.45,2.63,2.0,1.96,1.74,52.0,9.19,1.42
+MENA Logistics Co 97,Oman,Logistics,Freight,9521135.36,34%,STV,Recently raised Series B,20.6,18.02,16.05,9.24,0.95,1.5,1.54,62.0,9.71,0.7
+MENA Logistics Co 98,Egypt,Logistics,Express,37823509.6,17%,STV,Tech-enabled fleet management,27.49,6.96,19.87,11.44,1.99,1.98,1.0,71.0,4.82,0.88
+MENA Logistics Co 99,Jordan,Logistics,Last-Mile Delivery,38581122.28,32%,Raed Ventures,Tech-enabled fleet management,24.35,16.67,14.75,14.31,1.02,1.08,1.76,54.0,9.53,0.77
+MENA Logistics Co 100,Egypt,Logistics,Cold Chain,18721174.98,23%,BECO Capital,New warehouse in GCC free zone,29.22,10.91,9.59,13.96,0.25,1.81,0.6,113.0,8.81,1.73
